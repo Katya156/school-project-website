@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=TUTOR+SITE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=WEBSITE+FOR+THE+SCHOOL+PROJECT" alt="Typing SVG" /></a>
 -----------------------------------------
-<h3>Hi, this is my own website, welcome!</h3>
-<p><ins><em>Link to the website:</em></ins> <strong>https://katya156.github.io/tutor-site/index.html</strong></p>
+<h3>This is the website for the school project</h3>
+<p><ins><em>Link to the website:</em></ins> <strong>https://annastassiii.github.io/school-project-website</strong></p>
